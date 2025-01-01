@@ -1,0 +1,12 @@
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+td,th{
+    text-align: center;
+    border: 1px solid black;
+    padding: 10px;
+}
+tr:nth-child{
+    background-color: rgb(252, 131, 131);
+}

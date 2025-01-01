@@ -1,0 +1,40 @@
+.sub{
+    background-color: black;
+    color: white;
+    padding: 10px 20px 10px 20px;
+    font-weight: bold;
+    border-radius: 20px;
+}
+.sub:focus{
+    opacity: 0.8;
+    color: white;
+    background-color: rgb(240, 22, 22); 
+    cursor: pointer;
+
+}
+.join{
+    background-color:lightgray rgb(96 96 96);
+    color: black;
+    padding: 10px 20px 10px 20px;
+    font-weight: bold;
+    border-radius: 20px;
+    opacity: 0.8;
+    border: none;
+    font-weight: bold;
+}
+.join:hover{
+    opacity: 1;
+    cursor: pointer;
+}
+.get{
+    color: blue;
+    border-color: rgb(92, 114, 209);
+    border-radius:20px ;
+    padding: 10px 20px 10px 20px;
+}
+.get:focus{
+    color: white;
+    background-color:blue;
+    cursor: pointer;
+
+}
